@@ -25,6 +25,8 @@ Modeling Order in Neural Word Embeddings at Scale is an interesting work on word
 ## Resource
 - [BitTiger Project: Language processing](http://www.bittiger.io/microproject/3WHtbKbWFfNgk26Mx)
 - [Original paper](http://jmlr.org/proceedings/papers/v37/trask15.pdf)
+- [Word2vec package](https://radimrehurek.com/gensim/models/word2vec.html)
+- [Word2vec tutorial](http://deeplearning4j.org/word2vec)
 
 ## License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
