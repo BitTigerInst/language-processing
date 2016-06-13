@@ -11,16 +11,19 @@ Modeling Order in Neural Word Embeddings at Scale is an interesting work on word
 - [ ] Validate the code and improve the performance.
 
 ### Time Schedule
-Use securing confined his shutters. Delightful as he it acceptance an solicitude discretion reasonably. Carriage we husbands advanced an perceive greatest. Totally dearest expense on demesne ye he.
+
 
 | Stage | Start  | End | Goals |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | 02/01/16  | 02/07/16  | Project Selection, Plan Discussion, and Proposal Draft Writing |
-| 2 | 02/08/16  | 02/24/16  | System Design, Resource Discovery, Project Implementation, Document Writing  |
-| 3 | 02/25/16  | 02/29/16  | User Manual Writing and Presentation Making  |
+| s | 06/07/16  | 06/12/16  | Team match. Read paper and discuss with primary leader. |
+| 1 | 06/13/16  | 06/20/16  | Knowledge learning.  |
+| 2 | 06/21/16  | 06/27/16  | Implement the paper. |
+| 3 | 06/28/16  | 07/04/16  | Validate the code. |
+| 4 | 07/05/16  | 07/11/16  | Improve. | 
+| e | 07/12/16  | 07/18/16  | Project Report Writing, Demo Video Making |
 
 ## Resource
-- [BitTiger Project: AppStore - Crawler](https://slack-files.com/T0GUEMKEZ-F0J4G9QTT-274d3bc97e)
+- [BitTiger Project: Language processing](http://www.bittiger.io/microproject/3WHtbKbWFfNgk26Mx)
 - [Original paper](http://jmlr.org/proceedings/papers/v37/trask15.pdf)
 
 ## License
